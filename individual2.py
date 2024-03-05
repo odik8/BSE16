@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from modulespackage import person_operations
+from modules_package import person_operations
 
 
 def main():

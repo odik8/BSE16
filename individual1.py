@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from modul1 import func
+from module_1 import func
 
 if __name__ == "__main__":
     cnt = func()
